@@ -1,4 +1,4 @@
-## JEEVITHA R (212224060107)
+## MYVIZHI Y (212224050022)
 
 # 1. List Operations in Python: Sum of List Items
 
